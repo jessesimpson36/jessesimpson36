@@ -8,8 +8,8 @@ security software, patched u-boot to troubleshoot RISC-V NVMe support, and
 built custom kernel packages for apt and dnf. I also contribute to Gentoo's
 LAVA/Buildbot-based Kernel CI.
 
-I'm looking for roles in kernel development, firmware, device drivers, Linux
-distribution maintenance, or build engineering for custom-patched kernels.
+If you're a smaller shop looking for someone who can wear many hats and has the
+appetite for kernel, firmware, or low-level systems work, I'd love to chat.
 
 **Reach out:** jesse.simpson36 [at] gmail
 
